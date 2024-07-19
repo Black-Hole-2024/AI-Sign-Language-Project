@@ -9,11 +9,11 @@ This project is a testament to the power of collaboration, brought to life by th
 ## Structure
 The ENGBABA repository is structured to foster community engagement, allowing developers, contributors, and users to:
 
-backend/: This directory houses the backend code of the ENGBABA (እንግባባ) platform, encompassing the API endpoints, database models, and business logic implemented in Python using the Flask framework and TensorFlow.
+**Backend**: This directory houses the backend code of the ENGBABA (እንግባባ) platform, encompassing the API endpoints, database models, and business logic implemented in Python using the Flask framework and TensorFlow.
 
-frontend/: Here, you'll find the frontend code for the ENGBABA (እንግባባ) platform, crafted using JavaScript, React Native, and Redux or Dart with Flutter Fream Work. This directory also includes the HTML, CSS, and JavaScript files for the user interface.
+**Frontend**: Here, you'll find the frontend code for the ENGBABA (እንግባባ) platform, crafted using JavaScript, React Native, and Redux or Dart with Flutter Fream Work. This directory also includes the HTML, CSS, and JavaScript files for the user interface.
 
-models/: This directory contains the trained Generative AI models utilized by ENGBABA (እንግባባ) to enhance the platform's capabilities. The models are implemented using Python-based AI/ML libraries, and they play a pivotal role in addressing communication barriers between people who use sign language and those who do not.
+**Models**: This directory contains the trained Generative AI models utilized by ENGBABA (እንግባባ) to enhance the platform's capabilities. The models are implemented using Python-based AI/ML libraries, and they play a pivotal role in addressing communication barriers between people who use sign language and those who do not.
 
 # Purpose
 The purpose of this repository is to provide a collaborative space for development and improvement of the ENGBABA (እንግባባ) platform. By making the repository publicly accessible, we aim to foster community engagement, allowing developers, contributors, and users to explore the codebase, report issues, and suggest enhancements.
@@ -23,7 +23,9 @@ The purpose of this repository is to provide a collaborative space for developme
 ENGBABA (እንግባባ) leverages the integration of multiple AI models to different services (Sequence-to-Sequence (Seq2Seq) Models, BERT, Recurrent Neural Networks (RNNs), Convolutional Neural Networks (CNNs), etc...), to create an AI-Powered Sign Language Translator Mobile Application conversation. Key features include:
 
 => Simplified and user-friendly interface
+
 => Real-time Internet search integration for updated information
+
 => Versatile use cases including text generation, image creation, and more.
 
 ## Join us in creating a more inclusive and connected world!
